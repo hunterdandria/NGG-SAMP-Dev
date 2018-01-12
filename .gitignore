@@ -1,0 +1,8 @@
+# Compiled sources
+*.amx
+
+# Compressed sources
+*.zip
+*.rar
+
+.atom-build.json
